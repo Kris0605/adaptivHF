@@ -267,3 +267,7 @@ Az alábbi jegyzetek mutatják a kipróbált beállításokat. Ha egy scenario-n
             * 03_blockade - 3
             * 04_mirror - 1
     * marginális javulás -> maradunk a model_26-nél
+    * 
+### Advanced ágens
+
+
